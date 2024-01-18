@@ -16,7 +16,7 @@
 - **Speaker Output (Pin 26)**: Delivers the audio output from the ESP32.
 - **Joystick (Pin 15)**: Provides user interaction, allowing the audio output to be paused or resumed.
 
-##How to Use
+## How to Use
 - **Setup: **Assemble the circuit as per the schematic provided, connecting the sensors, joystick, and speaker to the designated pins on the ESP32.
 - **Programming:** Upload the provided code to the ESP32 using the Arduino IDE or your preferred development environment.
 - **Interaction:**
