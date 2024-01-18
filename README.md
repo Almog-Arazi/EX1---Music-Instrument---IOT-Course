@@ -3,6 +3,8 @@
 ## Project Overview
 "Opera Singer in a Box" is a unique and innovative project inspired by the rich and expressive vocal qualities of an opera singer. Utilizing the ESP32 microcontroller and Mozzi library for sound synthesis, this IoT project aims to mimic the dynamic range and vibrato of an opera singer, providing an interactive musical experience.
 
+ Video link: https://drive.google.com/file/d/1SAQzNu1yqwE_BtpHf2YD7__loRM4NWMq/view?usp=sharing
+
 ## Features
 - **Expressive Sound Synthesis**: Harnessing the power of the Mozzi library, our project emulates the captivating vibrato of an opera singer.
 - **Light Sensor**: Modulates the frequency of the sound, mimicking the pitch changes in an opera singer's performance.
