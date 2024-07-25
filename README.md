@@ -10,7 +10,7 @@
 
 ### [Watch the Video Here](https://www.youtube.com/embed/gcxdpc_Ur-Q?si=Y8IK-ynnRDHlXFkQ)
 
-In this video, you'll see:
+
 ## Features
 - **Expressive Sound Synthesis**: Harnessing the power of the Mozzi library, our project emulates the captivating vibrato of an opera singer.
 - **Light Sensor**: Modulates the frequency of the sound, mimicking the pitch changes in an opera singer's performance.
